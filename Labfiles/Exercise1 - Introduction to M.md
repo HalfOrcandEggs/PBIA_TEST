@@ -1,5 +1,4 @@
 ---
-subtitle: Introduction to M
 title: Lab Exercise 1
 ---
 
@@ -11,12 +10,14 @@ Show the advanced dialo
 
 Replace the query with
 
-let
+>   let
 
-x = “Hello, World!”
+>   x = “Hello, World!”
 
-In
+>   In
 
-x
+>   x
 
 ![](media/bddf3159a658289df3395a5ed0851e6d.png)
+
+Click Run
